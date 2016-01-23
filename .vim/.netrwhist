@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jlian/.vim/molokai/colors'
+let g:netrw_dirhist_2='/Users/jlian/.vim/molokai'
+let g:netrw_dirhist_3='/Users/jlian/bms/bms-cloud/server/api/event'
+let g:netrw_dirhist_4='/Users/jlian/Desktop/backBone/backBone/js'
