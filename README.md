@@ -1,0 +1,2 @@
+# dotForMac
+updated for mac
